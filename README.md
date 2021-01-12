@@ -18,8 +18,11 @@ You can find the datasets used for this project from these links: ["USGS: United
 
 ## Satellite Images of The Study Area
 
+8 July 2020
+
 ![Landsat8_2020](Test_Images/Landsat8_2020_RGB.png)
+
+3 May 2017
 
 ![Landsat8_2017](Test_Images/Landsat8_2017_RGB.png)
 
-![LANDSAT8_2020_NDVI](Outputs/NDVI_Landsat8_2020.png)
