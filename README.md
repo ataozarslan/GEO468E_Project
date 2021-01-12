@@ -62,4 +62,6 @@ Second NDVI Image: 3 May 2017
 
 ## Difference Between NDVI Images
 
+In this calculation, the image of 2020 was extracted from the 2017 image.
+
 ![Difference](Outputs/Difference_Between_Images.png)
