@@ -36,8 +36,7 @@ The NDVI is calculated as:
 
 where:
 
-λNIR is near-infrared Band 5
-λred is color red Band 4
+λNIR is near-infrared Band 5 and λred is color red Band 4
 
 By its formulation, NDVI ranges from -1 to +1. In practice, an area of an image containing living vegetation will have NDVI in the range 0.3 to 0.8. High water content clouds and snow will have negative values of the index. Bodies of water, having low reflectance in both Band 4 and 5, exhibit very low positive or negative index. Soil, having slightly higher reflectance in near-infrared than in red, will produce low positive values of the index.
 
@@ -61,3 +60,6 @@ Second NDVI Image: 3 May 2017
 
 ![Landsat8_2020](Outputs/NDVI_Landsat8_2017.png)
 
+## Difference Between NDVI Images
+
+![Difference](Outputs/Difference_Between_Images.png)
