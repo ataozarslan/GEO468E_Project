@@ -32,7 +32,7 @@ The normalized difference vegetation index (NDVI) is used to assess the state of
 
 The NDVI is calculated as:
 
-
+![NDVI_FORMULA](Logo/NDVI_formula.png)
 
 where:
 
