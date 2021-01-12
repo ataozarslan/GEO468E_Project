@@ -10,4 +10,9 @@
 
 - For this purpose, ssing the satellite images of Istanbul in 2020 and 2017, an analysis was made for the European continent of Istanbul.
 
-You can find the datasets used for this project from these links: ["USGS: United States Geological Survey (Study Area's Path: 180, Row: 31"](https://earthexplorer.usgs.gov/)
+## Datasets
+
+![USGS_LOGO](Logo/USGS_logo.png)
+
+You can find the datasets used for this project from these links: ["USGS: United States Geological Survey (Study Area's Path: 180, Row: 31)"](https://earthexplorer.usgs.gov/)
+
