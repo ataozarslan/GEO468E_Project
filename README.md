@@ -21,3 +21,5 @@ You can find the datasets used for this project from these links: ["USGS: United
 ![Landsat8_2020](Test Images/Landsat8_2020.tif)
 
 ![Landsat8_2017](Test Images/Landsat8_2017.tif)
+
+![LANDSAT8_2020_NDVI](Outputs/NDVI_Landsat8_2020.png)
