@@ -1,6 +1,6 @@
 # GEO468E - Special Topics in Remote Sensing Lecture Project
 
-![ITU_LOGO](Logo/itu_logo.gif)
+<center>![ITU_LOGO](Logo/itu_logo.gif)
 
 ## Aim Of The Project
 
