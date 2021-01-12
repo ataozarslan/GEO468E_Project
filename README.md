@@ -1,4 +1,4 @@
-# GEO468E_Special_Topics_in_Remote_Sensing_Lecture_Project
+# GEO468E - Special Topics in Remote Sensing Lecture Project
 
 ![ITU_LOGO](Logo/itu_logo.gif)
 
@@ -16,3 +16,7 @@
 
 You can find the datasets used for this project from these links: ["USGS: United States Geological Survey (Study Area's Path: 180, Row: 31)"](https://earthexplorer.usgs.gov/)
 
+## Satellite Images of The Study Area
+
+![Landsat8_2020](Test Images/Landsat8_2020.tif)
+![Landsat8_2017](Test Images/Landsat8_2017.tif)
