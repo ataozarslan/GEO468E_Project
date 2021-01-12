@@ -19,4 +19,5 @@ You can find the datasets used for this project from these links: ["USGS: United
 ## Satellite Images of The Study Area
 
 ![Landsat8_2020](Test Images/Landsat8_2020.tif)
+
 ![Landsat8_2017](Test Images/Landsat8_2017.tif)
