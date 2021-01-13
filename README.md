@@ -8,13 +8,15 @@
 
 - Therefore, in this project, the change of vegetation cover in cities, which is one of the many application areas of remote sensing, has been studied in a simple way.
 
-- For this purpose, ssing the satellite images of Istanbul in 2020 and 2017, an analysis was made for the European continent of Istanbul.
+- For this purpose, using the satellite images of Istanbul in 2020 and 2017, an analysis was made for the European continent of Istanbul.
 
 ## Datasets
 
 ![USGS_LOGO](Logo/USGS_logo.png)
 
 You can find the datasets used for this project from these links: ["USGS: United States Geological Survey (Study Area's Path: 180, Row: 31)"](https://earthexplorer.usgs.gov/)
+
+After download satellite images, it was subset as we will use it in the project.
 
 ## Satellite Images of The Study Area
 
